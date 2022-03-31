@@ -15,9 +15,9 @@ function App() {
         <h2>Trading Bot</h2>
       </div>
       <div className="App">  
-      <header className="App-header">
+      <div className="ChatbotApp">
         <Chatbot config={config} actionProvider={ActionProvider} messageParser={MessageParser}  />
-      </header>
+      </div>
     </div>
     </>
     

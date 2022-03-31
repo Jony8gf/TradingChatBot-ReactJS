@@ -7,7 +7,7 @@ const config = {
   botName: "TradingBot",
   initialMessages: [
     createChatBotMessage(
-      `Hi, my name is Trading Bot (Owned by Jong Coding).`
+      `Hi, my name is Trading Bot (Owned by JonyCoding).`
       ),
     createChatBotMessage(
       `So that I can help you, you must write the name of the company or the name of the market index.
